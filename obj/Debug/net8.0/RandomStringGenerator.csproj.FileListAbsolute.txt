@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\obj\Debug\net8.0\RandomStringGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\obj\Debug\net8.0\RandomStringGenerator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\obj\Debug\net8.0\RandomStringGenerator.AssemblyInfo.cs
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\obj\Debug\net8.0\RandomStringGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\obj\Debug\net8.0\RandomStringGenerator.sourcelink.json
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\bin\Debug\net8.0\RandomStringGenerator.exe
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\bin\Debug\net8.0\RandomStringGenerator.deps.json
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\bin\Debug\net8.0\RandomStringGenerator.runtimeconfig.json
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\bin\Debug\net8.0\RandomStringGenerator.dll
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\bin\Debug\net8.0\RandomStringGenerator.pdb
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\obj\Debug\net8.0\RandomStringGenerator.dll
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\obj\Debug\net8.0\refint\RandomStringGenerator.dll
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\obj\Debug\net8.0\RandomStringGenerator.pdb
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\obj\Debug\net8.0\RandomStringGenerator.genruntimeconfig.cache
+C:\Users\User\Desktop\MGQS\RandomStringGenerator\obj\Debug\net8.0\ref\RandomStringGenerator.dll
